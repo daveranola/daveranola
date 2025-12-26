@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Dave and I'm learning to become the best programmer, from Ireland</h2>
+<h2 align="left">Coding</h2>
 
 ###
 
